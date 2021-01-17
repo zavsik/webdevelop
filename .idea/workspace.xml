@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/svg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -48,6 +48,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/svg" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -64,7 +65,7 @@
       <updated>1610806318277</updated>
       <workItem from="1610806323279" duration="2483000" />
       <workItem from="1610809386742" duration="14000" />
-      <workItem from="1610809519878" duration="2613000" />
+      <workItem from="1610809519878" duration="9138000" />
     </task>
     <task id="LOCAL-00001" summary="Add script.js">
       <created>1610807192849</created>
